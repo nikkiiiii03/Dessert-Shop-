@@ -1,4 +1,4 @@
-# Dessert-Shop-
+# Dessert Shop
 My game is a restaurant management simulation set in a cozy dessert shop. The shop offers four types of desserts: croissant, bagel, donut, and cake. Each dessert is available in three flavors—chocolate, strawberry, and cream—with cream as the default flavor if none is specified during ordering.
 
 Players begin the game by selecting a mode:
