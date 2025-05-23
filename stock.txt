@@ -1,0 +1,4 @@
+croissant: 1
+donut: 1
+bagel: 1
+cake: 1
